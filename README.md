@@ -1,5 +1,5 @@
 # Code accompanying "Surveying the space of descriptions of a composite system with machine learning" (2024) 
-by Kieran A Murphy, Yujing Zhang, and Dani S Bassett [[arxiv](https://arxiv.org/abs/)]
+by Kieran A Murphy, Yujing Zhang, and Dani S Bassett [[arxiv](https://arxiv.org/abs/2411.18579)]
 
 ![Figure from the manuscript showing the space of descriptions of a 5-spin system.](/images/spin_system.png)
 
